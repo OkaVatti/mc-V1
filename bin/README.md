@@ -1,0 +1,3 @@
+# /bin
+
+Contains compiled project
