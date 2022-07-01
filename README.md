@@ -4,6 +4,13 @@ MC_V1R is a project to recreate minecraft in C++. The goal is to create a clone 
 (i.e; versions alpha 1.0.14 - alpha 1.0.17)
 ____
 
+If you have any experience programming in C++, it would be very much appreciated if you could dedicate some of your time contributing to the project.
+
+If you would like to be a full time developer, we have a private discord server specifically for this projects development. If you are intested, please message me on discord about this.
+
+Discord: vir#0643
+
+____
 ## Goals
 
 - Textures
@@ -50,7 +57,22 @@ ____
     - [x] Mojang.png
     - [ ] Title Screen
     - [ ] Buttons
-  - [ ]
+  - [ ] Mob Textures
+    - [x] Peaceful
+      - [x] Pig
+      - [x] Sheep
+      - [x] Cow
+      - [x] Chicken
+    - [ ] Hostile
+      - [x] Zombie
+      - [x] Skeleton
+      - [x] Creeper
+      - [ ] **Titan**
+      - [ ] Ghoul
+    - [ ] Neutral
+      - [ ] Wolf
+      - [ ] Farlander
+      - [x] Spider
 - Graphics
   - Render
     - [ ] Render a Square
@@ -80,4 +102,3 @@ ____
       - [ ] Stars
 
 ____
-
