@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/parker/Documents/code-shit/minecraft/mc-V1'
+make: Leaving directory `/Users/parker/Documents/code-shit/minecraft/mc-V1'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
