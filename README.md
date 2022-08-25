@@ -1,5 +1,10 @@
 # MC_V1R
 
+# Currently Under Contruction
+The Alpha Is Still Under Construction
+
+----
+
 MC_V1R is a project to recreate minecraft in C++. The goal is to create a clone that looks near identical to the original Alpha verisons of minecraft.
 (i.e; versions alpha 1.0.14 - alpha 1.0.17)
 ____
